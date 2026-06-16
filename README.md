@@ -1,5 +1,5 @@
 # DFIR Challenge 
-[https://dfir.q5.qa/](https://dfir.q5.qa/)
+[https://dfir.q5.qa](https://dfir.q5.qa/)
 
 A 25-question DFIR lab where you analyze Windows security logs from Splunk, Elastic, or Event Viewer to trace the attacker abyah through persistence and lateral movement.
 
